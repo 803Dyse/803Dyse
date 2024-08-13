@@ -7,8 +7,3 @@ Hey! I'm Alex (or Dyse if you prefer), a web developer who loves turning ideas i
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=803Dyse&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=803Dyse&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=803Dyse&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
