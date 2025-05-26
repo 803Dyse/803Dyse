@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Alex (or Dyse if you prefer), a web developer who loves turning ideas into reality. 
+Hey! I'm Alex, a web developer who loves turning ideas into reality. 
 
 
 # 💻 Tech Stack:
